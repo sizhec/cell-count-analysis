@@ -12,7 +12,8 @@ make pipeline
 make dashboard
 ```
 
-Open port **8501** in the Codespaces **Ports** panel. Locally, open the [dashboard](http://localhost:8501). A permanent hosted URL and GitHub submission link are still pending.
+Open port **8501** in the Codespaces **Ports** panel. Locally, open the [dashboard](http://localhost:8501).Repository: https://github.com/sizhec/cell-count-analysis
+Dashboard: https://friendly-cod-rv57w766rgp2pwq-8501.app.github.dev/
 
 Without Make:
 
@@ -69,4 +70,4 @@ Baseline means time from treatment start is **0**, with the same melanoma/miracl
 | Responders / non-responders | 331 / 325 |
 | Female / male subjects | 312 / 344 |
 
-Project prj2 has no qualifying baseline samples and is absent from the grouped output.
+Successfully run in GitHub Codespaces using `make setup`, `make pipeline`, and `make dashboard`.
