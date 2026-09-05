@@ -14,7 +14,7 @@ make dashboard
 
 Open port **8501** in the Codespaces **Ports** panel.
 
-Locally, open the [dashboard](http://localhost:8501/).
+Locally, open the dashboard with the link http://localhost:8501
 
 Without Make:
 
