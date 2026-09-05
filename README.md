@@ -12,7 +12,8 @@ make pipeline
 make dashboard
 ```
 
-Open port **8501** in the Codespaces **Ports** panel. Locally, open the [dashboard](http://localhost:8501).Repository: https://github.com/sizhec/cell-count-analysis
+Open port **8501** in the Codespaces **Ports** panel. Locally, open the [dashboard](http://localhost:8501).
+Repository: https://github.com/sizhec/cell-count-analysis
 Dashboard: https://friendly-cod-rv57w766rgp2pwq-8501.app.github.dev/
 
 Without Make:
